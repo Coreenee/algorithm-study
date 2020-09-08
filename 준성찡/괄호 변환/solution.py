@@ -50,3 +50,6 @@ def solution(p):
     answer = ''
     answer = operate(p)
     return answer
+
+
+print(solution(')))((('))
